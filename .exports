@@ -1,3 +1,3 @@
 export DATAMOUNT="/media/data"
 export GITS="$DATAMOUNT/gits"
-export SCRIPTS="/home/pnsl/.scripts"
+export SCRIPTS="$HOME/.scripts"
