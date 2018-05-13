@@ -2,6 +2,11 @@ export DATAMOUNT="/media/data"
 export GITS="$DATAMOUNT/gits"
 export SCRIPTS="$HOME/.scripts"
 
+#req for bashalias
+export LBASHRC="$HOME/.bashrc"
+export LBASHALIAS="$SCRIPTS/.bash_aliases"
+export LEXPORTS="$SCRIPTS/.exports"
+export LFUNCTIONS="$SCRIPTS/.fun"
 
 
 #stuff?
