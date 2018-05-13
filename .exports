@@ -1,3 +1,9 @@
 export DATAMOUNT="/media/data"
 export GITS="$DATAMOUNT/gits"
 export SCRIPTS="$HOME/.scripts"
+
+
+
+#stuff?
+
+export PS1="\[\033[38;5;14m\]\A\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;10m\]\u@\h\[$(tput sgr0)\]\[\033[38;5;15m\]:\[$(tput sgr0)\]\[\033[38;5;12m\]\w\[$(tput sgr0)\]\[\033[38;5;15m\]\\$ \[$(tput sgr0)\]"
