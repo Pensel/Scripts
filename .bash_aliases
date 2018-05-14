@@ -1,5 +1,5 @@
-alias tor="/opt/tor-browser/start-tor-browser --detach" #badscripting.exe
-alias update="$SCRIPTS/.update.sh"
+#alias tor="/opt/tor-browser/start-tor-browser --detach" #badscripting.exe
+#alias update="$SCRIPTS/.update.sh"
 
 alias bashrc="editAndRefreshBashrc $LBASHRC"
 alias bashalias="editAndRefreshBashrc $LBASHALIAS"

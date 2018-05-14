@@ -6,4 +6,4 @@
 
 . $SCRIPTS/.bash_aliases
 . $SCRIPTS/.fun
-. $SCRIPTS/.z/z.sh
+#. $SCRIPTS/.z/z.sh
