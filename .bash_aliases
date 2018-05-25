@@ -1,5 +1,5 @@
 #alias tor="/opt/tor-browser/start-tor-browser --detach" #badscripting.exe
-#alias update="$SCRIPTS/.update.sh"
+alias update="$SCRIPTS/.update.sh"
 
 alias bashrc="editAndRefreshBashrc $LBASHRC"
 alias bashalias="editAndRefreshBashrc $LBASHALIAS"
@@ -13,6 +13,9 @@ alias gits="cd $GITS"
 alias scripts="cd $SCRIPTS"
 alias studium="cd $GITS/StudiumNow"
 alias downloads="cd $HOME/Downloads"
+alias desktop="cd $HOME/Desktop"
+
+alias wiss="cd /media/data/gits/StudiumNow/Wissenschaftliches\ arbeiten/Code/src"
 
 #cd alias lazy 
 alias d="data" #well
